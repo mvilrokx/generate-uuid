@@ -1,4 +1,4 @@
-# geenrateUUID
+# generateUUID
 Zero-dependency, pure JavaScript UUID generator.
 
 ## Getting started
